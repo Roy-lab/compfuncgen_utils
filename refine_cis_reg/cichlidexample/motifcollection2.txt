@@ -1,0 +1,6 @@
+cichildexample/A_burtoni/allfimo.txt	Ab
+cichlidexample/G_aculeatus/allfimo.txt	Ga
+cichlidexample/M_zebra/allfimo.txt	Mz
+cichlidexample/N_brichardi/allfimo.txt	Nb
+cichlidexample/O_niloticus/allfimo.txt	On
+cichlidexample/P_nyererei/allfimo.txt	Pn

@@ -1,0 +1,10 @@
+Mz	left	Anc1
+Pn	right	Anc1
+Anc1	left	Anc2
+Ab	right	Anc2
+Anc2	left	Anc3
+Nb	right	Anc3
+Anc3	left	Anc4
+On	right	Anc4
+Anc4	left	Anc5
+Ga	right	Anc5
