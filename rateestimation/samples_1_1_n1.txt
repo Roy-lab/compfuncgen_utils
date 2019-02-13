@@ -1,0 +1,2 @@
+Gene	Calb	Cgla	Klac	Scas	Scer	Spom
+Gene0	1	1	1	1	1	1

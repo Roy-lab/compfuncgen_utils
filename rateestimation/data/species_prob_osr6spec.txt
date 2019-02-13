@@ -1,0 +1,11 @@
+#Child	LeftorRight	Parent	Prob_of_gaining_edge P(e_child=1|e_parent=0)	Prob_of_maintaining_edge P(e_child=1|e_parent=1)
+Scer	left	Anc4
+Cgla	right	Anc4
+Anc4	left	Anc5
+Scas	right	Anc5
+Anc5	left	Anc9
+Klac	right	Anc9
+Anc9	left	Anc11
+Calb	right	Anc11
+Anc11	left	Anc14
+Spom	right	Anc14

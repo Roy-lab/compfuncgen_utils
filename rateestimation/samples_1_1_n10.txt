@@ -1,0 +1,11 @@
+Gene	Calb	Cgla	Klac	Scas	Scer	Spom
+Gene0	1	1	1	1	1	1
+Gene1	0	0	0	0	0	0
+Gene2	0	1	1	0	1	0
+Gene3	1	1	1	1	1	1
+Gene4	1	1	1	0	0	1
+Gene5	0	0	1	0	0	1
+Gene6	0	1	0	1	1	0
+Gene7	1	0	1	0	0	0
+Gene8	0	0	1	0	0	0
+Gene9	1	1	0	0	1	0

@@ -1,0 +1,8 @@
+Scer	left	Anc4
+Cgla	right	Anc4
+Anc4	left	Anc5
+Scas	right	Anc5
+Anc5	left	Anc11
+Calb	right	Anc11
+Anc11	left	Anc14
+Spom	right	Anc14
