@@ -777,7 +777,7 @@ RateEstimator::computeLikelihood()
 		}
 		ll_alpha=ll_alpha+log(lll_a);
 		ll_gamma=ll_gamma+lll_g;
-		cout <<"data " << gIter->first << " " << ll_alpha << endl;
+		//cout <<"data " << gIter->first << " " << ll_alpha << endl;
 	}
 	cout <<"Likelihood From Alpha: " << ll_alpha << " Likelihood from suff stat1: " << (ll) << "suff stat2: " << ll2 << endl;
 	return ll_alpha;
